@@ -1,5 +1,8 @@
 ## Project Description
 This capstone project involves generating fake transaction data from ecommerce websites and sending it to the other team via kafka. They do the same and we analyze their data and try to understand the algorithms they used to generate it.
+
+Click here to see the [demo](https://drive.google.com/file/d/13EnXR1t0JLOYI8LY9EOjFcxR0lCpiTWw/view?usp=drive_link)
+
 ## Features
 - Generates transaction data for each company over the span of 10 years
 - Uses base data on products, companies, and customers stored in files to generate the transactions
