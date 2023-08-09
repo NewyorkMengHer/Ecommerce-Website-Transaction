@@ -1,7 +1,9 @@
 # Ecommerce Website Transaction
 
 ## Description
-The "Ecommerce Website Transaction" project is a collaborative effort between two teams to simulate and analyze ecommerce transaction data. Both teams generate a vast amount of simulated data based on a predefined schema, stream it to each other, clean and transform the data, and finally perform analytical queries. The results are visualized using Tableau and Zeppelin and presented to an audience with diverse backgrounds.
+The "Ecommerce Website Transaction" project is a collaborative effort between two teams to simulate and analyze ecommerce transaction data. Both teams generate a vast amount of simulated data based on a predefined schema, stream it to each other, clean and transform the data, and finally perform analytical queries. The results are visualized using Zeppelin and presented to an audience with diverse backgrounds. 
+
+Our team's primary objective is to analyze the other team's data, finding trends and patterns that can provide valuable insights. Part of our simulation process also involves generating "bad data" by selecting specific columns and replacing them with unrelated data, challenging the data cleaning and transformation process.
 
 Click [here](https://drive.google.com/file/d/13EnXR1t0JLOYI8LY9EOjFcxR0lCpiTWw/view?usp=drive_link) to see the demo
 
